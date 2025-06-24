@@ -1,0 +1,3 @@
+[submodule "foot"]
+	path = foot
+	url = https://github.com/AlekseyZaytcev/foot.git
